@@ -1,7 +1,6 @@
 ## ¡Hola! Soy Marcos
 
-- 🌱 I’m currently learning PHP.
-- 📚 I’m currently learning English.
+
 
 ## Github Stats 
 
